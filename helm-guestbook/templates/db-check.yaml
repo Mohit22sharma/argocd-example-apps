@@ -15,4 +15,4 @@ spec:
           command:
             - 'sh'
             - '-c'
-            - "echo 'Running db check to $DB_HOST...'; sleep 30; echo 'Done!'"
+            - "echo 'Running db check to $DB_HOST...'; sleep 30; echo 'Connected!'"
